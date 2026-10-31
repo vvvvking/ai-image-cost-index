@@ -42,7 +42,7 @@ CogView3-Flash and GLM-4.1V-Thinking-Flash are $0 on NovAI's free tier (10 free-
 - Interactive image cost calculator: https://aiapi-pro.com/image-cost-calculator
 - Video equivalent: https://github.com/vvvvking/ai-video-cost-index
 - Live price feed for 111 Chinese models: https://github.com/vvvvking/chinese-ai-api-prices
-- Sourced HTML table: https://aiapi-pro.com blog series on image cost
+- Sourced HTML table: https://aiapi-pro.com/image-cost-2026
 
 Maintained by [NovAI](https://aiapi-pro.com), an OpenAI-compatible gateway for Chinese AI models at provider list price, 0% platform fee.
 
