@@ -1,5 +1,9 @@
 # AI image generation cost index — list price per image (2026)
 
+[![Seedream 5.0 price](https://aiapi-pro.com/badge/seedream-5-0.svg?v=2)](https://aiapi-pro.com/chinese-ai-api-pricing)
+
+`/badge` serves a one-line SVG for any of the 111 models — [embed one](https://aiapi-pro.com/badge).
+
 **Full table:** all 111 Chinese models with list prices in one page — [Chinese AI API pricing comparison](https://aiapi-pro.com/chinese-ai-api-pricing)
 
 Eleven image models, list prices in USD, checked **2026-10-30**. Cost per 1,000 images is included because that is the number a real batch is budgeted in.
