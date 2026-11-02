@@ -1,5 +1,7 @@
 # AI image generation cost index — list price per image (2026)
 
+**Full table:** all 111 Chinese models with list prices in one page — [Chinese AI API pricing comparison](https://aiapi-pro.com/chinese-ai-api-pricing)
+
 Eleven image models, list prices in USD, checked **2026-10-30**. Cost per 1,000 images is included because that is the number a real batch is budgeted in.
 
 | Model | Per image | 1,000 images | Images per $10 |
